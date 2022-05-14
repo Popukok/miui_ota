@@ -31,7 +31,7 @@
 |小米6| [Develop](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米6.md)| [Stable](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米6.md)|
 |小米6X| [Develop](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米6X.md)| [Stable](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米6X.md)|
 |小米Note3| [Develop](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米Note3.md)| [Stable](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米Note3.md)|
-|Redmi K30Pro| [Develop](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/Redmi%20K30Pro.md)| [Stable](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/Redmi%20K30Pro.md)|
+|Redmi K30Pro| [Develop](https://github.com/Popukok/miui_ota/blob/master/Develop/Redmi%20K30Pro.md)| [Stable](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/Redmi%20K30Pro.md)|
 |Redmi Note 9 4G| [Develop](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/Redmi%20Note%209%204G.md)| [Stable](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/Redmi%20Note%209%204G.md)|
 |Redmi Note 9| [Develop](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/Redmi%20Note%209.md)| [Stable](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/Redmi%20Note%209.md)|
 |Redmi Note 9 Pro| [Develop](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/Redmi%20Note%209%20Pro.md)| [Stable](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/Redmi%20Note%209%20Pro.md)|
