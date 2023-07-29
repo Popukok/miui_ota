@@ -1,5 +1,10 @@
 | Redmi K30Pro  稳定版    |
 | ---- |
+| [miui_LMI_V14.0.5.0.SJKCNXM_41456619f8_12.0.zip](https://bigota.d.miui.com/V14.0.5.0.SJKCNXM/miui_LMI_V14.0.5.0.SJKCNXM_41456619f8_12.0.zip)    |
+| [miui_LMI_V14.0.4.0.SJKCNXM_7af1b0266e_12.0.zip](https://bigota.d.miui.com/V14.0.4.0.SJKCNXM/miui_LMI_V14.0.4.0.SJKCNXM_7af1b0266e_12.0.zip)    |
+| [miui_LMI_V14.0.3.0.SJKCNXM_9079c992b4_12.0.zip](https://bigota.d.miui.com/V14.0.3.0.SJKCNXM/miui_LMI_V14.0.3.0.SJKCNXM_9079c992b4_12.0.zip)    |
+| [miui_LMI_V14.0.2.0.SJKCNXM_880ead0c08_12.0.zip](https://bigota.d.miui.com/V14.0.2.0.SJKCNXM/miui_LMI_V14.0.2.0.SJKCNXM_880ead0c08_12.0.zip)    |
+| [miui_LMI_V14.0.1.0.SJKCNXM_f138ab23ac_12.0.zip](https://bigota.d.miui.com/V14.0.4.0.SJKCNXM/miui_LMI_V14.0.1.0.SJKCNXM_f138ab23ac_12.0.zip)    |
 | [miui_LMI_V13.0.6.0.SJKCNXM_0962de9501_12.0.zip](http://bigota.d.miui.com/V13.0.6.0.SJKCNXM/miui_LMI_V13.0.6.0.SJKCNXM_0962de9501_12.0.zip)    |
 | [miui_LMI_V13.0.5.0.SJKCNXM_65e9a3c47f_12.0.zip](http://bigota.d.miui.com/V13.0.5.0.SJKCNXM/miui_LMI_V13.0.5.0.SJKCNXM_65e9a3c47f_12.0.zip)    |
 | [miui_LMI_V13.0.4.0.SJKCNXM_285b75b959_12.0.zip](https://hugeota.d.miui.com/V13.0.4.0.SJKCNXM/miui_LMI_V13.0.4.0.SJKCNXM_285b75b959_12.0.zip)    |
@@ -21,5 +26,9 @@
 | [miui_LMI_V12.0.4.0.QJKCNXM_ea33a6558a_10.0.zip](https://hugeota.d.miui.com/V12.0.4.0.QJKCNXM/miui_LMI_V12.0.4.0.QJKCNXM_ea33a6558a_10.0.zip)    |
 | [miui_LMI_V12.0.2.0.QJKCNXM_4bdba402bc_10.0.zip](https://hugeota.d.miui.com/V12.0.2.0.QJKCNXM/miui_LMI_V12.0.2.0.QJKCNXM_4bdba402bc_10.0.zip)    |
 | [miui_LMI_V12.0.1.0.QJKCNXM_22ccf83939_10.0.zip](https://hugeota.d.miui.com/V12.0.1.0.QJKCNXM/miui_LMI_V12.0.1.0.QJKCNXM_22ccf83939_10.0.zip)    |
+| [miui_LMI_V11.0.19.0.QJKCNXM_4e635f6c25_10.0.zip](https://hugeota.d.miui.com/V11.0.19.0.QJKCNXM/miui_LMI_V11.0.19.0.QJKCNXM_4e635f6c25_10.0.zip)    |
 | [miui_LMI_V11.0.16.0.QJKCNXM_0119293462_10.0.zip](https://hugeota.d.miui.com/V11.0.16.0.QJKCNXM/miui_LMI_V11.0.16.0.QJKCNXM_0119293462_10.0.zip)    |
+| [miui_LMI_V11.0.15.0.QJKCNXM_8254914abe_10.0.zip](https://hugeota.d.miui.com/V11.0.15.0.QJKCNXM/miui_LMI_V11.0.15.0.QJKCNXM_8254914abe_10.0.zip)    |
+| [miui_LMI_V11.0.14.0.QJKCNXM_1c69737182_10.0.zip](https://hugeota.d.miui.com/V11.0.14.0.QJKCNXM/miui_LMI_V11.0.14.0.QJKCNXM_1c69737182_10.0.zip)    |
 | [miui_LMI_V11.0.12.0.QJKCNXM_901b86eb6d_10.0.zip](https://hugeota.d.miui.com/V11.0.12.0.QJKCNXM/miui_LMI_V11.0.12.0.QJKCNXM_901b86eb6d_10.0.zip)    |
+| [miui_LMI_V11.0.10.0.QJKCNXM_c578a1da51_10.0.zip](https://hugeota.d.miui.com/V11.0.10.0.QJKCNXM/miui_LMI_V11.0.10.0.QJKCNXM_c578a1da51_10.0.zip)    |
